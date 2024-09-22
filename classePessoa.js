@@ -15,4 +15,4 @@ class Pessoa {
 }
 
 const caio = new Pessoa("Caio", 20);
-caio.descrever();
+caio.descrever();   
